@@ -1,6 +1,6 @@
 {
   "name": "@blaahaj/dropbox-hacking-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple explorative CLI for Dropbox files",
   "main": "./dist/src/main.js",
   "scripts": {
