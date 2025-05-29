@@ -1,0 +1,2 @@
+#!/bin/bash
+exec node --trace-deprecation --trace-warnings ./dist/src/main.js "$@"
